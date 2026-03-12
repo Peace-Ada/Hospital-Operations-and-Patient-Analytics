@@ -1,7 +1,7 @@
 # Hospital-Operations-and-Patient-Analytics
 
 ## 📊 Dashboard Preview
-[Hospital Dashboard](https://github.com/Peace-Ada/Hospital-Operations-and-Patient-Analytics/blob/main/Dashboard.png?raw=true)
+[Hospital Dashboard](https://github.com/Peace-Ada/Hospital-Operations-and-Patient-Analytics/blob/62fc70661959a73ca0b3853d05f8d0282fd0b2ac/Dashboard.png)
 
 ## 📝 Project Overview
 This healthcare data analysis project explores patient distribution, medical conditions, hospital performance, and billing trends. Using a dataset of hospital records, I developed an interactive dashboard to monitor operational efficiency and patient care through key performance indicators (KPIs) and granular visualizations.
