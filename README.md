@@ -1,8 +1,7 @@
 # Hospital-Operations-and-Patient-Analytics
-Healthcare data analysis project exploring patient distribution, medical conditions, hospital performance, and billing trends through KPIs and interactive visualizations.
 
 ## 📊 Dashboard Preview
-![Hospital Dashboard](PASTE_YOUR_IMAGE_LINK_HERE)
+[Hospital Dashboard](https://github.com/Peace-Ada/Hospital-Operations-and-Patient-Analytics/blob/main/Dashboard.png?raw=true)
 
 ## 📝 Project Overview
 This healthcare data analysis project explores patient distribution, medical conditions, hospital performance, and billing trends. Using a dataset of hospital records, I developed an interactive dashboard to monitor operational efficiency and patient care through key performance indicators (KPIs) and granular visualizations.
@@ -28,6 +27,6 @@ This healthcare data analysis project explores patient distribution, medical con
 4.  **Age-Related Trends:** Adults (middle-aged) represent the demographic with the highest number of reported medical conditions.
 
 ## 🛠️ Tools Used
-*   **Dashboard Tool:** [Insert e.g., Power BI / Tableau / Excel]
-*   **Data Cleaning:** [Insert e.g., Power Query / SQL]
+*   **Dashboard Tool:** [ Power BI]
+*   **Data Cleaning:** [Power Query / SQL]
 *
